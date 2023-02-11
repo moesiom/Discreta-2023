@@ -1,11 +1,21 @@
-<p align="center">
-  <img width="150" height="100" src="https://github.com/moesiomif/Discreta-2022/blob/main/Aula-1/Imagens/Crato_IF2.png">
-</p>
+<table>
+  <tr>
+   	 <td>
+             <img width="150" height="100" src="https://github.com/moesiomif/Discreta-2022/blob/main/Aula-1/Imagens/Crato_IF2.png">
+	    </td>
+        <td> 
+<main>
+	
+# IFCE - Instituto Federal de Educação, Ciência e Tecnologia do Ceará
+
+#  Sistemas de Informação
+
+</main>
+</table>
+
+# MATEMÁTICA DISCRETA 
 
 
-# IFCE - Sistemas de Informação
-
-## Matemática Discreta 2023
 
 ## Olá pessoal 👋
 
